@@ -53,7 +53,7 @@ This script was developed in response to a real-world need to automate the batch
 
 ## License
 
-MIT License (or your choice)
+MIT License 
 
 ## Contributions
 
