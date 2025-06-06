@@ -49,7 +49,7 @@ This Python script automates the import, pruning, and visualization of multiple 
 
 ## How This Script Evolved
 
-This script was developed in response to a real-world need to automate the batch import and analysis of CD spectrum data, as discussed in detail [here](https://github.com/yourusername/yourrepo/issues/1) (link to your discussion or issue if desired). It is designed for robust, reproducible scientific data processing and visualization.
+This script was developed in response to a real-world need to automate the batch import and analysis of CD spectrum data, as discussed in detail [here](https://github.com/zzzgithubzzz/cd-spectra-import-excel) . It is designed for robust, reproducible scientific data processing and visualization.
 
 ## License
 
@@ -58,6 +58,11 @@ MIT License
 ## Contributions
 
 Pull requests and suggestions are welcome!
+
+## Acknowledgment
+
+If you find this script useful in your research or work, a citation or acknowledgment to this GitHub repository ([vinodksubramani/cd-spectrum-utils](https://github.com/zzzgithubzzz/cd-spectra-import-excel)) would be appreciated, but is not required.
+
 
 ---
 
